@@ -1,0 +1,13 @@
+{
+  "name": "JestTests",
+  "version": "1.0.0",
+  "description": "ejercicios de test en jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
